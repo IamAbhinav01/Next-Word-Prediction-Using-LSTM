@@ -1,6 +1,6 @@
-tensorflow==2.11.0
-streamlit==1.23.0
+tensorflow==2.13.0
+streamlit==1.45.1
 numpy
-keras==2.11.0
+keras==2.13.1
 h5py
 pickle5
